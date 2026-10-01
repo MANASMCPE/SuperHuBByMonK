@@ -1118,7 +1118,7 @@ local SpamTab = Window:Tab({
 })
 
 SpamTab:Button({
-    Title = "CHOCO EDITION SPAM 👑",
+    Title = "MONK EDITION SPAM 👑",
     Desc = "Click to execute the ultimate VIP Spammer!",
     Callback = function()
         loadstring(game:HttpGet(("https://raw.githubusercontent.com/MANASMCPE/Spam/refs/heads/main/SAPMM.lua"),true))()
@@ -1135,7 +1135,7 @@ LifeTogetherTab:Button({
     Title = "MONK OUTFIT COPIER 🤩 (ONLY FOR LIFE TOGETHER ☄️)GUI✌🏻",
     Desc = "Click to open the outfit copier GUI",
     Callback = function()
-        loadstring(game:HttpGet(("https://raw.githubusercontent.com/MANASMCPE/LIFETOGETHERRPSCRIPTOPENSLURCE-/refs/heads/main/Copier.lua"),true))()
+        loadstring(game:HttpGet(("https://raw.githubusercontent.com/MANASMCPE/FiTcopierDeobfByMonK/refs/heads/main/deobfuscated_by_MONK.lua"),true))()
     end,
 })
 
